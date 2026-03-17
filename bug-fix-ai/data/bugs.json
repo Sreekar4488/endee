@@ -1,0 +1,18 @@
+[
+  {
+    "error": "NullPointerException in Java",
+    "solution": "Initialize objects before using them and add null checks"
+  },
+  {
+    "error": "IndexOutOfBoundsException in Java",
+    "solution": "Check array or list size before accessing elements"
+  },
+  {
+    "error": "SyntaxError in Python",
+    "solution": "Check indentation, missing colon or parentheses"
+  },
+  {
+    "error": "Segmentation fault in C",
+    "solution": "Check pointer initialization and avoid invalid memory access"
+  }
+]
